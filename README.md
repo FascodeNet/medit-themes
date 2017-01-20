@@ -12,4 +12,4 @@ Global: `/usr/share/gtksourceview-3.0/styles`
 ### Activation
   1. Open the preferences
   2. Switch to the "Font & Colors" tab
-  3. Select `Adapta` from the "Color Scheme" list
+  3. Select `Adapta Gedit` from the "Color Scheme" list
