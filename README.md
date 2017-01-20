@@ -12,3 +12,4 @@ Copy the [`adapta.xml`](/adapta.xml) file to the color schemes directory:
   1. Open the Preferences in Gedit
   2. Switch to the "Font & Colors" tab
   3. Select `Adapta Gedit` from the "Color Scheme" list
+  4. Enjoy
