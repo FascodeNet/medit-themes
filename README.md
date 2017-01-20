@@ -1,2 +1,3 @@
 # Material theme for Gedit editor
-Metrial theme for gedit matched with Adapta GTK theme
+Material theme for gedit matched with Adapta GTK theme
+![Gedit Material theme](/screenshot.png)
